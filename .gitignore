@@ -1,1 +1,4 @@
-node_modules
+nest
+nest-debugger
+node-debugger
+performanceOpt
